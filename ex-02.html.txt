@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Accueil ISEG Summer Code Camp</title>
+  <h2> "Programme"</h2>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <La maîtrise des fondamentaux du code et de la programation dans les domaines du business, du marketing et de la communication est un avanatge sérieux et utile. >
+<b>  <Elle deviendra de plus en plus incontournable.> </b>
+</body>
+</html>
+<title>Retour d'expérience</title>
+ <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+<q>Quand le projet nous a été proposé je n’ai pas hésité une seconde ! Le but étaitde nous faire créer un site sur des bases de HTML, CSS et PHP. J’ai énormémentappris, le tout dans une ambiance plutôt cool. <i>ALEXIS 2e ANNÉE 2018-2019<i> <q>
+<q>Nous avons travaillé à la méthode Epitech : pas de professeurs, pas de cours ànoter, mais beaucoup de réflexion par soi-même pour avancer. Chacun y allait à sonrythme au sein de l’équipe. C’est une expérience enrichissante, un vrai plus pourmon CV et mes stages futurs !<i>MAGALIE 2e ANNÉE 2018-2019<i> <q>
+<h3> "Les atouts de la formation" </h3>
+</head>
+<body>
+-Découverte du code et de la programmation web-Découverte de la culture numérique-Découverte de la méthodologie Epitech-Construction d’un langage commun avec vos futures équipes de développement
+<h4> "Image, vidéos et sons" </h4>
